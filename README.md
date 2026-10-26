@@ -1,2 +1,2 @@
 # SingletonPattern
-Labotary Assignment 45for Software Engineering 1
+Labotary Assignment 5 for Software Engineering 1
